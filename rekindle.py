@@ -1,3 +1,6 @@
+# From http://acko.net/files/rekindle.py.txt
+# Have to modify it to suit some personal requirements
+
 import sys
 import re
 import decimal
